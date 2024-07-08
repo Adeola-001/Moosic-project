@@ -1,4 +1,3 @@
-Moosic
 Moosic is a start-up creating personalized playlists curated by music experts.
 Users can access playlists through various music apps (Spotify, Apple Music, YouTube Music).
 Rapid business growth has highlighted the slow pace of manual playlist creation.
